@@ -5,7 +5,7 @@ SD card image for Raspberry Pi with LabVIEW 2020 installed.
 
 On Windows, the best software to do this is Win32 Disk Imager
 
-- Download Win 32 Disk Imager, install it and launch it
+- Download Win 32 Disk Imager, install it and launch it - https://sourceforge.net/projects/win32diskimager/
 - Enter the image destination folder and file name (.img)
 - Select the SD card letter in the device list
 - Click on “Read”
@@ -15,7 +15,7 @@ On Windows, the best software to do this is Win32 Disk Imager
 
 The easiest way to restore this backup is to flash the image on another SD card with Etcher
 
-- Download Etcher from the official website
+- Download Etcher from the official website - https://www.balena.io/etcher/
 - Install and run it
 - Choose your backup image on the left
 - Choose your SD card
